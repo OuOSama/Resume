@@ -1,0 +1,60 @@
+body{
+    font-family: 'Gluten', cursive;
+    font-family: 'Itim', cursive;
+}
+
+.MainPage{
+    margin-top: 5%;
+    width: 50%;
+    height: 100%;
+    background : url(https://i.pinimg.com/originals/be/cd/f0/becdf045c365c9cfd71624dd270e3e7d.jpg)no-repeat ;
+    background-size: cover;
+    background-position: center;
+}
+
+.Meaw_Pic img{
+    height: 70%;
+    width: 70%;
+    margin: 5%;
+}
+
+.White_Tabs{
+    background-color: white;
+    border-radius: 0px 180px 180px 0px;
+    width: 75%;
+    text-align: center;
+    padding: 2px;
+}
+
+.Middle_Left_Box{
+    color: white;
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 5%;
+}
+
+.White_Tabs_2{
+    background-color: white;
+    border-radius: 0px 180px 180px 0px;
+    width: 75%;
+    text-align: center;
+    padding: 2px;
+}
+
+.In_White_Tabs_2{
+    background-color: white;
+    border-radius: 0px 180px 180px 0px;
+    width: 30%;
+    text-align: center;
+    padding: 2px;
+    margin-top: 5%
+}
+
+.In_White_Tabs_sentente{
+    margin-left: 5%;
+    color: white;
+    width: 25%;
+    text-align: center;
+    padding: 2px;
+    margin-top: 5%
+}
