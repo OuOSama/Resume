@@ -10,6 +10,7 @@ body{
     background : url(https://i.pinimg.com/originals/be/cd/f0/becdf045c365c9cfd71624dd270e3e7d.jpg)no-repeat ;
     background-size: cover;
     background-position: center;
+    margin-bottom: 5%;
 }
 
 .Meaw_Pic img{
@@ -23,7 +24,7 @@ body{
     border-radius: 0px 180px 180px 0px;
     width: 75%;
     text-align: center;
-    padding: 2px;
+    padding: 5px;
 }
 
 .Middle_Left_Box{
@@ -38,23 +39,63 @@ body{
     border-radius: 0px 180px 180px 0px;
     width: 75%;
     text-align: center;
-    padding: 2px;
+    padding: 5px;
 }
 
 .In_White_Tabs_2{
     background-color: white;
     border-radius: 0px 180px 180px 0px;
-    width: 30%;
-    text-align: center;
+    width: 35%;
+    text-align: left;
     padding: 2px;
-    margin-top: 5%
+    margin-top: 5%;
+}
+
+.In_White_Tabs_2 i{
+    margin-left: 10%;
+}
+
+.In_White_Tabs_1{
+    background-color: white;
+    border-radius: 0px 180px 180px 0px;
+    width: 20%;
+    text-align: right;
+    padding: 2px;
+    margin-top: 5%;
+}
+
+.In_White_Tabs_1 i{
+    margin-right: 10%;
 }
 
 .In_White_Tabs_sentente{
     margin-left: 5%;
     color: white;
-    width: 25%;
+    width: 20%;
     text-align: center;
     padding: 2px;
-    margin-top: 5%
+    margin-top: 5%;
+}
+
+.Purple_Tabs{
+    background-color: rgb(140, 0, 255);
+    color: white;
+    border-radius: 0px 180px 180px 0px;
+    width: 90%;
+    text-align: left;
+    padding: 5px;
+    margin-top: 10%;
+    margin-right:50% ;
+}
+
+.Beginer_Dev{
+    color: white;
+    margin-top: 10% ;
+}
+
+.Year_1{
+    color: rgb(255, 255, 255);
+    text-align: right;
+    margin-top: 20%;
+    
 }
